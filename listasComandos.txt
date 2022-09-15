@@ -1,0 +1,2 @@
+git config --global user.name "jhon"
+git config --global user. mail jhongutierrezmarca@gmail.com
